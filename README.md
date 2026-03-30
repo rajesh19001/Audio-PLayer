@@ -20,3 +20,10 @@ PureAudio is a minimalist, high-performance open-source music player designed fo
 * **Language:** Kotlin (Jetpack Compose)
 * **Engine:** Media3 ExoPlayer
 * **Database:** LRCLib API for synced lyrics
+<p align="center">
+  <img src="image1.jpg" width="180">
+  <img src="image2.jpg" width="180">
+  <img src="image3.jpg" width="180">
+  <img src="image4.jpg" width="180">
+  <img src="image5.jpg" width="180">
+</p>
