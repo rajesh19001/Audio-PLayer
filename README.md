@@ -10,6 +10,16 @@ PureAudio Platinum is a minimalist, high-performance open-source music player de
   <img src="image3.jpg" width="180">
   <img src="image4.jpg" width="180">
   <img src="image5.jpg" width="180">
+  <br><br>
+  <img src="image6.jpg" width="180">
+  <img src="image7.jpg" width="180">
+  <img src="image8.jpg" width="180">
+  <img src="image9.jpg" width="180">
+  <img src="image10.jpg" width="180">
+  <br><br>
+  <img src="image11.jpg" width="180">
+  <img src="image12.jpg" width="180">
+  <img src="image13.jpg" width="180">
 </p>
 
 ## 🚀 Key Features (Platinum Build)
